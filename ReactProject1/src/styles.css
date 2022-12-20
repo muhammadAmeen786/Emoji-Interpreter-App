@@ -1,0 +1,22 @@
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color:lightgreen;
+}
+body{
+  background-color:indigo;
+}
+input{
+  height: 50px;
+  width: 50vw;
+}
+.emojis{
+  font-size: 2rem;
+  cursor: pointer;
+  border: 3px solid white;
+}
+div{
+  padding: 1rem;
+  margin: 1rem;
+}
